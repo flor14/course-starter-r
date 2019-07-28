@@ -1,5 +1,5 @@
 library(tidyverse)
-cars2018 <- read_csv("/datasets/cars2018.csv")
+cars2018 <- read_csv("cars2018.csv")
 
 # Print the cars2018 object
 ___
