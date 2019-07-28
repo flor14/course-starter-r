@@ -3,7 +3,7 @@
     "title": "My cool online course",
     "slogan": "A free online course",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": <p>My name is Julia Silge and I'm a data scientist at <a href='https://stackoverflow.com/'>Stack Overflow</a></p> ,
+    "bio": <p>My name is SS and I'm a SS at <a href='https://stackoveSlow.com/'>Stack Sflow</a> where I use tidyverse tools and statistical analysis to understand developers and the software industry. I am both an international keynote speaker and a real-world practitioner focused on data analysis and machine learning practice. I love making beautiful charts and communicating about technical topics with diverse audiences.</p><p><a rel='license' href='http://creativecommons.org/licenses/by/4.0'><img alt='Creative Commons License' src='https://i.creativecommons.org/l/by/4.0/88x31.png'/></a></p>" ,
     "siteUrl": "https://course-starter-r.netlify.com",
     "twitter": "spacy_io",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
